@@ -58,6 +58,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            }
+          },
           "_anchor": "header2-1",
           "_params": {
             "imageSize": "33",
@@ -103,25 +115,24 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i><a href=\"http://shongololo.capetown\" class=\"text-primary\">Shongololo &nbsp;Outsourced Services (Pty) Ltd</a></i></span>",
           "text": "&nbsp; &nbsp;<a href=\"http://shongololo.capetown\">You name it... we drive it </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MOR</a>  ",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "text-align": "center"
-            },
-            ".mbr-section-text": {
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "25px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MOR</a>  "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#3d8eb9"
+            }
+          },
           "_anchor": "features1-2",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -159,7 +170,7 @@
             }
           },
           "title1": "HCVs &amp; LDVs",
-          "subtitle1": "Nothing to big",
+          "subtitle1": "Nothing too big",
           "caption1": "Heavy commercial vehicles, \"bakkies\" and long distance is synonym with our name... be it a &nbsp;C1, C, EB, EC1 or an EC licence...<br>we have it but please call us in advance.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -175,7 +186,7 @@
             }
           },
           "title2": "Holiday makers",
-          "subtitle2": "Nothing to fancy",
+          "subtitle2": "Nothing too fancy",
           "caption2": "Would you like to go to your coastal holiday house but prefer not driving your car all the way? We can help you but please call us a week in advance.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -192,7 +203,7 @@
           },
           "title3": "Taxi Service",
           "subtitle3": "Feeling tipsy",
-          "caption3": "Feel like a nigth on the town and need your car driven home?<br>We can assit you but please call us a day in advance.",
+          "caption3": "Feel like a night on the town and need your car driven home?<br>We can assit you but please call us a day in advance.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -233,18 +244,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#3d8eb9"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#3d8eb9"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
